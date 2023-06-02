@@ -1,16 +1,16 @@
-#ERA - Session 5 Assignment
+# ERA - Session 5 Assignment
 
 We are building a simple classifier model for the MNIST dataset. Our project comprises mainly of three files, which are -
 
-##1. S5.ipynb
+## 1. S5.ipynb
 
 This is the main notebook file of our project in which we train our classifier model and test its accuracy
 
-##2. model.py
+## 2. model.py
 
 This file contains the model definition - the layers involved along with the forward function
 
-###usage
+### usage
 
 paste the below code in the S5 notebook to use the model
 
@@ -22,11 +22,11 @@ paste the below code in the S5 notebook to use the model
     model = Net().to(device)
 
 
-##3. utils.py
+## 3. utils.py
 
 This file contains the functions we use for gettting the data loaders. We can also define the train and test functions (for 1 epoch) used for generic model training and evaluation
 
-###usage
+### usage
 
 paste the below code in the S5 notebook to import and use the functions required for training, testing and getting data loaders
 
