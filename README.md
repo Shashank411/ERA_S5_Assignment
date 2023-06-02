@@ -24,7 +24,7 @@ paste the below code in the S5 notebook to use the model
 
 ## 3. utils.py
 
-This file contains the functions we use for gettting the data loaders. We can also define the train and test functions (for 1 epoch) used for generic model training and evaluation
+This file contains the functions we use for getting the data loaders. We can also define the train and test functions (for 1 epoch) used for generic model training and evaluation
 
 ### usage
 
